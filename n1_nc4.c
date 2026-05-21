@@ -11,6 +11,6 @@ int main(){
 
     idade = 25;
 
-    printf(main\n);
+    printf("nome: %s\n", nome);
     return 0;
 }

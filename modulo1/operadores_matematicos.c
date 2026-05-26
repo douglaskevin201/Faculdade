@@ -12,15 +12,9 @@ int main() {
 
 
     soma = numero1 + numero2;
-
-
     subtracao = numero1 - numero2;
-
-
     multiplicacao = numero1 * numero2;
-
     divisao = numero1 / numero2;
-
     printf("A soma é: %d\n", soma);
 
     printf("A subtração é: %d\n", subtracao);
